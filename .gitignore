@@ -1,0 +1,8 @@
+.DS_Store
+*.o
+stockserver
+stockclient
+multiclient
+testlib
+CLAUDE.md
+.claude/
